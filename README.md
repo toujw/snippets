@@ -1,4 +1,0 @@
-snippets
-========
-
-My yasnippet files.
