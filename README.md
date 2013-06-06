@@ -1,4 +1,4 @@
 snippets
 ========
 
-Contains my yasnippet files.
+My yasnippet files.
